@@ -49,7 +49,7 @@ This involved:
 - Attaching the pen holder mechanism  
 - Ensuring structural rigidity  
 
-![Initial Assembly](media/assembly-1.jpg)
+![Initial Assembly](media/product image1.jpg)
 
 Even minor misalignment caused noticeable errors in drawing, so multiple adjustments were required.
 
@@ -82,10 +82,6 @@ The pipeline involves:
 - Mapping paths into coordinate space  
 - Sending commands to the microcontroller  
 
-[Insert image: processing pipeline]
-
-This is where the project moves beyond a simple plotter and becomes an intelligent system.
-
 ---
 
 ## Challenges Faced
@@ -107,7 +103,7 @@ Each issue required iterative testing and redesign.
 
 After multiple iterations, the system was able to produce consistent and recognizable drawings.
 
-[Insert image: final output]
+![Initial Assembly](media/working.jpg)
 
 Seeing the machine translate digital input into physical output was the most rewarding part of the process.
 
