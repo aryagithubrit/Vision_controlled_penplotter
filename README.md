@@ -49,7 +49,7 @@ This involved:
 - Attaching the pen holder mechanism  
 - Ensuring structural rigidity  
 
-![Initial Assembly](media/product image1.jpg)
+![Initial Assembly](media/image.jpeg)
 
 Even minor misalignment caused noticeable errors in drawing, so multiple adjustments were required.
 
@@ -103,7 +103,7 @@ Each issue required iterative testing and redesign.
 
 After multiple iterations, the system was able to produce consistent and recognizable drawings.
 
-![Initial Assembly](media/working.jpg)
+![Initial Assembly](media/working.jpeg)
 
 Seeing the machine translate digital input into physical output was the most rewarding part of the process.
 
