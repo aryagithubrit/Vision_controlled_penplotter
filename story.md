@@ -89,8 +89,3 @@ Also we had a similar project reference..so it helped us a lot.
 ---
 
 
-## 📸 Demo
-
-*(Add your images / GIF here — this is where the project comes alive)*
-
----
