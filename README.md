@@ -114,7 +114,7 @@ Seeing the machine translate digital input into physical output was the most rew
 This project was presented at a technical fest, where it received:
 
 1st Prize in Project Presentation
-Alao we could showcase our project for KSUM exhibition
+Also we could showcase our project for KSUM exhibition
 This recognition validated the effort put into both the design and implementation.
 
 ---
