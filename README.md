@@ -34,10 +34,6 @@ All structural components were:
 - Optimized for stability and alignment  
 - Fabricated using 3D printing  
 
-[Insert image: CAD design]
-
-[Insert image: 3D printed parts]
-
 3D printing gave us the flexibility to iterate quickly and refine the structure based on real-world testing.
 
 ---
@@ -53,7 +49,7 @@ This involved:
 - Attaching the pen holder mechanism  
 - Ensuring structural rigidity  
 
-[Insert image: initial assembly]
+![Initial Assembly](media/assembly-1.jpg)
 
 Even minor misalignment caused noticeable errors in drawing, so multiple adjustments were required.
 
