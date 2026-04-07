@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 from collections import deque
 
-# ---------------- LOAD MODEL ----------------
+# ---------------- LOAD MODEL ---------------
 model = tf.keras.models.load_model("sign_model.h5")
 labels = np.load("labels.npy")
 
