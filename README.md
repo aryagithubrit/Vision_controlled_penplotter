@@ -3,6 +3,18 @@
 A project that began with a simple idea and then turned into build a machine that can take visual input and reproduce it physically with precision.
 
 ---
+## Approach
+
+The system follows a pipeline that converts visual input into physical motion:
+
+1. Input is captured using computer vision techniques  
+2. The input is processed and converted into coordinate paths  
+3. The coordinates are mapped to the plotting area  
+4. Commands are sent to the microcontroller via serial communication  
+5. Stepper motors execute the motion along X and Y axes  
+6. The pen reproduces the input on paper with precision  
+
+This integration of vision processing and embedded control enables real-time and accurate drawing.
 
 ## Getting Started
 
